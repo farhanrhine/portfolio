@@ -266,10 +266,12 @@ function App() {
                 <h3 className="text-xl font-bold" style={{color: '#2C5F5E'}}>Airline Satisfaction Prediction (MLOps)</h3>
               </div>
               <p className="mb-4 leading-relaxed" style={{color: '#5D4E37'}}>Developed an end-to-end ML pipeline using Airflow, Docker, MLflow, DVC, Jenkins, GitHub, Flask, AWS.</p>
-              <img src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=400&h=200&fit=crop" alt="Airline Satisfaction Prediction" className="mb-4 rounded-lg shadow-md hover:scale-105 transition-transform" />
-              <div className="mt-auto flex gap-4">
+              <img src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=400&h=200&fit=crop" alt="Airline Satisfaction Prediction" className="mb-4 rounded-lg shadow-md hover:scale-105 transition-transform" />              <div className="mt-auto flex gap-4">
                 <a href="https://github.com/farhanrhine/END-TO-END-MLOPS-Project-" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-yellow-600 transition-colors font-semibold hover:scale-110 transform glow-animation" style={{color: '#8B6914'}}>
                   <span className="animate-pulse">🐙</span> GitHub
+                </a>
+                <a href="https://your-airline-mlops-app.streamlit.app" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-yellow-600 transition-colors font-semibold hover:scale-110 transform glow-animation" style={{color: '#8B6914'}}>
+                  <span className="animate-spin wiggle-hover" style={{animationDuration: '2s'}}>🌐</span> Live Demo
                 </a>
               </div>
             </div>
@@ -279,10 +281,12 @@ function App() {
                 <h3 className="text-xl font-bold" style={{color: '#2C5F5E'}}>Olympic Data Analysis</h3>
               </div>
               <p className="mb-4 leading-relaxed" style={{color: '#5D4E37'}}>Explored performance trends and medal analysis using pandas, matplotlib, seaborn.</p>
-              <img src="https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=200&fit=crop" alt="Olympic Data Analysis" className="mb-4 rounded-lg shadow-md hover:scale-105 transition-transform" />
-              <div className="mt-auto flex gap-4">
+              <img src="https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=200&fit=crop" alt="Olympic Data Analysis" className="mb-4 rounded-lg shadow-md hover:scale-105 transition-transform" />              <div className="mt-auto flex gap-4">
                 <a href="https://github.com/farhanrhine/Olympic-data-analysis" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-yellow-600 transition-colors font-semibold hover:scale-110 transform glow-animation" style={{color: '#8B6914'}}>
                   <span className="animate-pulse">🐙</span> GitHub
+                </a>
+                <a href="https://olympic-data-analysis-frhn.streamlit.app" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-yellow-600 transition-colors font-semibold hover:scale-110 transform glow-animation" style={{color: '#8B6914'}}>
+                  <span className="animate-spin wiggle-hover" style={{animationDuration: '2s'}}>🌐</span> Live Demo
                 </a>
               </div>
             </div>
@@ -292,10 +296,12 @@ function App() {
                 <h3 className="text-xl font-bold" style={{color: '#2C5F5E'}}>RAG Chatbot with LangChain</h3>
               </div>
               <p className="mb-4 leading-relaxed" style={{color: '#5D4E37'}}>Created a chatbot using LangChain, HuggingFace API, Ollama, Vector Databases for contextual responses with documents.</p>
-              <img src="https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=200&fit=crop" alt="RAG Chatbot with LangChain" className="mb-4 rounded-lg shadow-md hover:scale-105 transition-transform" />
-              <div className="mt-auto flex gap-4">
-                <a href="https://github.com/farhanrhine/rag-chatbot-langchain" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-yellow-600 transition-colors font-semibold hover:scale-110 transform glow-animation" style={{color: '#8B6914'}}>
+              <img src="https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=200&fit=crop" alt="RAG Chatbot with LangChain" className="mb-4 rounded-lg shadow-md hover:scale-105 transition-transform" />              <div className="mt-auto flex gap-4">
+                <a href="https://github.com/farhanrhine/RAG-app-convert-any-document-into-text-and-generated-audio-" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-yellow-600 transition-colors font-semibold hover:scale-110 transform glow-animation" style={{color: '#8B6914'}}>
                   <span className="animate-pulse">🐙</span> GitHub
+                </a>
+                <a href="https://9jeugmsq7ncyyo7yl8rvvo.streamlit.app/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-yellow-600 transition-colors font-semibold hover:scale-110 transform glow-animation" style={{color: '#8B6914'}}>
+                  <span className="animate-spin wiggle-hover" style={{animationDuration: '2s'}}>🌐</span> Live Demo
                 </a>
               </div>
             </div>
